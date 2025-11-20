@@ -45,3 +45,4 @@ The system supports collecting gesture data, training an LSTM model, and running
 ├── labels.txt
 └── README.md
 
+
